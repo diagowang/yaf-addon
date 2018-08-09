@@ -1,7 +1,5 @@
 {
     "require": {
-        "illuminate/database": "5.5.17",
-        "illuminate/events": "5.5.17",
-        "doctrine/dbal": "2.6.3"
+        "illuminate/database": "^5.6"
     }
 }
